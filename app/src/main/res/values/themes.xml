@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The whole UI is drawn by Compose; this only styles the window behind it. -->
+    <style name="Theme.LocalChat" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
